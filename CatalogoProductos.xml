@@ -7,16 +7,16 @@
 	
 	<Productos>
 		<Producto ID = "100001">
-			<NombreProducto>Café Negro<NombreProducto>
-			<Descripcion>El mejor café negro.<Descripcion>
+			<NombreProducto>Café Negro</NombreProducto>
+			<Descripcion>El mejor café negro.</Descripcion>
 			<Precio>8500</Precio>
-			<Disponible>true<Disponible>
+			<Disponible>true</Disponible>
 		</Producto>
 		<Producto ID = "100002">
-			<NombreProducto>Cappuccino<NombreProducto>
-			<Descripcion>Mezcla espumosa de espresso y leche hervida.<Descripcion>
+			<NombreProducto>Cappuccino</NombreProducto>
+			<Descripcion>Mezcla espumosa de espresso y leche hervida.</Descripcion>
 			<Precio>9500</Precio>
-			<Disponible>true<Disponible>
+			<Disponible>true</Disponible>
 		</Producto>
 	</Productos>
 </Catalogo>
